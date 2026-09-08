@@ -1,0 +1,4 @@
+interface:
+  display_name: "tys-ai-output-acceptance"
+  short_description: "帮助无编程经验用户把 AI 成品转成可观察证据并判断能否投入使用"
+  default_prompt: "使用 $tys-ai-output-acceptance 验收这个 AI 产出，给出通过、未通过或无法验收的证据结论。"
