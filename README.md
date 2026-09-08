@@ -1,6 +1,6 @@
 # tyskill
 
-一组帮助普通人使用 AI、判断 AI 产出并承担真实任务的 Skills。
+帮助使用 AI、判断 AI 产出并承担真实任务的 Skills。
 
 当前发布：`tys-ai-output-acceptance`。
 
